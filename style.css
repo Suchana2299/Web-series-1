@@ -1,7 +1,20 @@
-h1{
-    color:green
+h1 {
+    color: green
 }
-marquee{
+
+marquee {
     font-size: 40px;
-    color:aquamarine
+    color: aquamarine
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%
+}
+
+.half-width img {
+    width: 100%
 }
